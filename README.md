@@ -6,10 +6,8 @@
 <br>
 
 
-
-- 🔭 I’m Trini from Buenos Aires, Argentina. I learned Full Stack Web Development on Henry Bootcamp and I'm eager to continue learning even more and with a special focus on backend.
-- 🌱 I’m currently looking for a job and open to learn new technologies to be more prepared to take on any task. 
-- 💻 Technologies I use: **JavaScript, CSS, HTML, Express, React, Redux, Python, SQL, JWT, Firebase and more.**
-- 📫 How to reach me: trini.garcia.val@gmail.com I'm open to any proposal. 
+- 🌱 I’m looking for opportunities that challenge me. 
+- 💻 Technologies I use: **JavaScript, CSS, HTML, Express, React, Redux, Azure Cloud, Python, SQL, JWT, Firebase and more.**
+- 📫 How to reach me: trini.garcia.val@gmail.com 
 
 
