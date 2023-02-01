@@ -9,5 +9,6 @@
 - 🌱 I’m looking for opportunities that challenge me. 
 - 💻 Technologies I use: **JavaScript, CSS, HTML, Express, React, Redux, Azure Cloud, Python, SQL, JWT, Firebase and more.**
 - 📫 How to reach me: trini.garcia.val@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/trinidad-garcia-developer/
 
 
